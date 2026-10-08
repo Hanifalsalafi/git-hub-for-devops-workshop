@@ -1,1 +1,8 @@
-print("Hello this github learning")
+def hello():
+    """
+    This demo python code
+    """
+    return "Hello Frns"
+
+
+hello()
